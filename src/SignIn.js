@@ -90,6 +90,7 @@ export default function SignIn() {
             >
               Sign In
             </Button>
+            {/*
             <Grid container>
               <Grid item xs>
                 <Link href="#" variant="body2">
@@ -102,6 +103,7 @@ export default function SignIn() {
                 </Link>
               </Grid>
             </Grid>
+        */}
           </Box>
         </Box>
         <Copyright sx={{ mt: 8, mb: 4 }} />
